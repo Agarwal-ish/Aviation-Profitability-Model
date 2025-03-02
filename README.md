@@ -1,4 +1,4 @@
-# Aviation Profitability Model
+# Aviation Profitability Model ✈️
 
 ## Overview
 
